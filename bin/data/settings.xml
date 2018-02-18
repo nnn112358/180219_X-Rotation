@@ -1,0 +1,18 @@
+<parametor>
+	<screenSize/>
+	<GuiHide_h_>1</GuiHide_h_>
+	<fullscreen__F_>0</fullscreen__F_>
+	<drum_scale>1.864</drum_scale>
+	<drum_x_zero>430</drum_x_zero>
+	<drum_y_zero>270</drum_y_zero>
+<parametor/>
+<xx_amp>15.4</xx_amp>
+	<yy_amp>14.8</yy_amp>
+	<vel_amp>6</vel_amp>
+	<drum_speed>1</drum_speed>
+<xx_freq>30</xx_freq>
+	<yy_freq>20</yy_freq>
+	<vel_freq>25</vel_freq>
+<timer>10</timer>
+	<Font_Size>25.3</Font_Size>
+</parametor>
